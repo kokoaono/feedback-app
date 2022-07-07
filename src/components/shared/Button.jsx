@@ -1,10 +1,8 @@
-import React from "react";
-
 function Button({ children, version, type, isDisabled }) {
   return (
-    <Button type={type} disabled={isDisabled} className={`btn btn-${version}`}>
+    <button type={type} disabled={isDisabled} className={`btn btn-${version}`}>
       {children}
-    </Button>
+    </button>
   );
 }
 

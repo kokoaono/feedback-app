@@ -1,5 +1,3 @@
-import FeedbackList from "./FeedbackList";
-
 function FeedbackStats({ feedback }) {
   //calculate ratings avg
   let average =
