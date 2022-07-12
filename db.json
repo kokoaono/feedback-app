@@ -6,9 +6,9 @@
       "text": "This is from the backend"
     },
     {
-      "id": 2,
-      "rating": 4,
-      "text": "I am item 2 from the backend"
+      "text": "i am going to add new feedback",
+      "rating": 6,
+      "id": 3
     }
   ]
 }
