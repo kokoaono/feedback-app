@@ -9,6 +9,11 @@
       "text": "i am going to add new feedback",
       "rating": 6,
       "id": 3
+    },
+    {
+      "text": "what an experience",
+      "rating": 8,
+      "id": 4
     }
   ]
 }
