@@ -11,9 +11,14 @@
       "id": 3
     },
     {
-      "text": "what an experience",
-      "rating": 8,
+      "text": "this is the test",
+      "rating": 3,
       "id": 4
+    },
+    {
+      "text": "revist React project",
+      "rating": 7,
+      "id": 5
     }
   ]
 }
